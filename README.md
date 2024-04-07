@@ -13,15 +13,12 @@ Design and implement RESTful APIs for seamless communication.
 Optimize database performance and design efficient data models.
 Collaborate with cross-functional teams to deliver high-quality software.
 
-🚀 Projects:WhiteBoard and Document Editor Team Collaboration WebApp
+🚀 Projects: WhiteBoard and Document Editor Team Collaboration WebApp
 
-project Link:
+project Link: https://canvas-whiteboard-and-document-editor.onrender.com
 
-https://canvas-whiteboard-and-document-editor.onrender.com
+GitHub Link: https://github.com/Junaid1240651/canvas-whiteboard-and-document-Editor
 
-GitHub Link:
-
-https://github.com/Junaid1240651/canvas-whiteboard-and-document-Editor
 Feature of this Project:
 Canvas-Based Project: This includes a whiteboard for drawing charts and a document editor for creating documents.
 File Management:
