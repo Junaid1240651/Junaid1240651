@@ -15,18 +15,12 @@ Collaborate with cross-functional teams to deliver high-quality software.
 
 🚀 Projects:
 https://canvas-whiteboard-and-document-editor.onrender.com
+GitHub Link
 https://github.com/Junaid1240651/canvas-whiteboard-and-document-Editor
 Feature of this Project:
 Canvas-Based Project: This includes a whiteboard for drawing charts and a document editor for creating documents.
 File Management:
-1.Users can create Teams..
-2.Users can create files under a team.
-3.Users can rename files.
-4Users can delete files.
-5.Users can duplicate files.
-6.Users can search the file.
-7.Users can see all team files on clicking of all files button.
-8.Users can archive files, for separation purposes.
+Users can create Teams,create files under a team,rename files,delete files,duplicate files,search the file.Users can see all team files on clicking of all files button.Users can archive files, for separation purposes.
 File Sharing:
 1.Users can copy a link to a particular file, for sharing.
 2.Users can grant permission to other users by entering their email addresses. This enables collaborative editing on the same file.
