@@ -37,4 +37,4 @@ Let's Connect:
 Gmail: jk1240651@gmail.com
 LinkedIn: https://www.linkedin.com/in/junaid-khan-11204b196
 
-Feel free to explore my repositories and don't hesitate to reach out if you have questions or want to collaborate on exciting projects. Let's code something amazing together! 💻✨
+Feel free to explore my repositories and don't hesitate to reach out if you have questions or want to collaborate on exciting projects. Let's code something amazing together!. 💻✨
