@@ -24,7 +24,7 @@ GitHub Link: https://github.com/Junaid1240651/canvas-whiteboard-and-document-Edi
 Feature of this Project:
 Canvas-Based Project: This includes a whiteboard for drawing charts and a document editor for creating documents.
 File Management:
-Users can create Teams,create files under a team,rename files,delete files,duplicate files,search the file.Users can see all team files on clicking of all files button.Users can archive files, for separation purposes.
+Users can create Teams,create files under a team,rename ,delete ,duplicate ,search the file.Users can see all team files on clicking of all files button and  archive files, for separation purposes.
 File Sharing:
 Users can copy a link to a particular file, for sharing and permission to other users by entering their email addresses. This enables collaborative editing on the same file.
 When You click any of the file Users can initially see both the whiteboard and document editor windows.Users can switch between full-screen mode for either the whiteboard or document editor using buttons.Users can save this file on clicking the save button.User can update own profile picture , name, username, email, password.Users can switch between Dark Mode and Light Mode.
