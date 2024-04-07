@@ -15,25 +15,17 @@ Collaborate with cross-functional teams to deliver high-quality software.
 
 🚀 Projects:
 https://canvas-whiteboard-and-document-editor.onrender.com
-GitHub Link
+GitHub Link:
 https://github.com/Junaid1240651/canvas-whiteboard-and-document-Editor
 Feature of this Project:
 Canvas-Based Project: This includes a whiteboard for drawing charts and a document editor for creating documents.
 File Management:
 Users can create Teams,create files under a team,rename files,delete files,duplicate files,search the file.Users can see all team files on clicking of all files button.Users can archive files, for separation purposes.
 File Sharing:
-1.Users can copy a link to a particular file, for sharing.
-2.Users can grant permission to other users by entering their email addresses. This enables collaborative editing on the same file.
-When You click any of the file:
-Initial Window: Users can initially see both the whiteboard and document editor windows.
-Full-Screen Toggle:
-Users can switch between full-screen mode for either the whiteboard or document editor using buttons.
-Users can save this file on clicking the save button
-User Profile Update:
-User can update own profile picture , name, username, email, password 
-Dark Mode Toggle:
-Users can switch between Dark Mode and Light Mode.
+Users can copy a link to a particular file, for sharing and permission to other users by entering their email addresses. This enables collaborative editing on the same file.
+When You click any of the file Users can initially see both the whiteboard and document editor windows.Users can switch between full-screen mode for either the whiteboard or document editor using buttons.Users can save this file on clicking the save button.User can update own profile picture , name, username, email, password.Users can switch between Dark Mode and Light Mode.
 Team Collaboration Description:
+
 Whiteboard Canvas- Here, all team members can draw, sketch, and brainstorm together in real-time. Whether it's illustrating ideas, mapping out strategies, or simply doodling, everyone's contributions appear instantly on each other's screens.
 
 But that's not all - our document editor takes collaboration to the next level. With the ability for all users to write, edit, and format text simultaneously, creating documents has never been more efficient. Whether it's drafting reports, crafting proposals, or outlining strategies, every heading, paragraph, and edit is reflected instantly across all team members' screens.
