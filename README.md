@@ -1,6 +1,6 @@
 Hey 👋, I'm Junaid Khan. Full Stack Developer | Passionate about Crafting Digital Solutions 🚀
 
-i have full-stack developer skilled in MERN (MongoDB, Express.js, React, Node.js) technologies, as well as front-end and back-end development. Proficient in HTML, CSS, JavaScript, and server-side frameworks. Experienced in database management, API integration, and deploying scalable solutions. Committed to staying updated on emerging technologies. Passionate about creating efficient and innovative digital solutions..
+I have full-stack developer skilled in MERN (MongoDB, Express.js, React.js/Next.js, Node.js) technologies, as well as front-end and back-end development. Proficient in HTML, CSS, JavaScript, and server-side frameworks. Experienced in database management, API integration, and deploying scalable solutions. Committed to staying updated on emerging technologies. Passionate about creating efficient and innovative digital solutions..
 
 💻 Tech Stack:
 Frontend: React.js, HTML5, CSS, JavaScript, Bootstrap, ChakraUI,Tailswind CSS
